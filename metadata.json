@@ -1,0 +1,5 @@
+{
+  "name": "GamingPinAI",
+  "description": "An AI-powered Pinterest manager for gaming blogs. Generates strategy, SEO metadata, and images using Gemini Nano Banana models.",
+  "requestFramePermissions": []
+}
